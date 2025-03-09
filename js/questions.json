@@ -1,0 +1,26 @@
+[
+  {
+    "question": "What is this page made of?",
+    "choice1": "HTML/CSS",
+    "choice2": "Python",
+    "choice3": "Java",
+    "choice4": "SQL",
+    "answer": 1
+  },
+  {
+    "question": "Who is this page made by?",
+    "choice1": "Elon Musk",
+    "choice2": "Mark Zuckerberg",
+    "choice3": "Mohamed Muneer",
+    "choice4": "Non of the above",
+    "answer": 3
+  },
+  {
+    "question": "What is this game's name?",
+    "choice1": "Quiz Master",
+    "choice2": "Mastermind",
+    "choice3": "Questions Game",
+    "choice4": "Quiz Game",
+    "answer": 4
+  }
+]
